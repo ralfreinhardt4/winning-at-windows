@@ -145,6 +145,8 @@ Software previously listed that I have taken out of rotation is [here](deprecate
 
 * [SuperF4](https://stefansundin.github.io/superf4/): when Alt-F4 isn't good enough. Forcefully kill foreground apps with Ctrl-Alt-F4. Endorsed by Bowser.
 
+* [Snipaste](https://snipaste-tool.com/) is a powerful, customizable screen capture tool that automatically detects natural areas of the screen for easy snipping.
+
 * [ShellExView](https://www.nirsoft.net/utils/shexview.html), [ShellMenuView](https://www.nirsoft.net/utils/shell_menu_view.html), [ShellMenuNew](https://www.nirsoft.net/utils/shell_menu_new.html), and [OpenWithView](https://www.nirsoft.net/utils/open_with_view.html): Remove unwanted entries from Explorer's (old school) right-click context menu.  
 
 * [Incipitor](https://www.dcmembers.com/bgmcoder/download/incipitor/): automates the process of adding shortcuts to the Windows start menu.
